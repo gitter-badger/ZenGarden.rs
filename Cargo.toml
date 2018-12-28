@@ -1,0 +1,18 @@
+[package]
+name        = "zengarden"
+description = "Self-contained PureData synthesis engine"
+version     = "0.0.0"
+authors     = ["Tony Arcieri <bascule@gmail.com>"]
+homepage    = "https://neobirth.org"
+repository  = "https://github.com/NeoBirth/ZenGarden.rs"
+readme      = "README.md"
+edition     = "2018"
+license     = "LGPL-3.0"
+categories  = ["api-bindings", "multimedia", "no-std"]
+keywords    = ["audio", "music", "synthesis", "puredata", "zengarden"]
+
+[dependencies]
+zengarden-sys = { version = "0", path = "zengarden-sys" }
+
+[workspace]
+members = [".", "zengarden-sys"]

@@ -8,7 +8,7 @@ repository  = "https://github.com/NeoBirth/ZenGarden.rs"
 readme      = "README.md"
 edition     = "2018"
 license     = "LGPL-3.0"
-categories  = ["api-bindings", "multimedia", "no-std"]
+categories  = ["api-bindings", "multimedia::audio", "no-std"]
 keywords    = ["audio", "music", "synthesis", "puredata", "zengarden"]
 
 [dependencies]

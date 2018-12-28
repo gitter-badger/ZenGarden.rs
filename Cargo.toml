@@ -14,5 +14,8 @@ keywords    = ["audio", "music", "synthesis", "puredata", "zengarden"]
 [dependencies]
 zengarden-sys = { version = "0", path = "zengarden-sys" }
 
+[badges]
+travis-ci = { repository = "NeoBirth/ZenGarden.rs" }
+
 [workspace]
 members = [".", "zengarden-sys"]

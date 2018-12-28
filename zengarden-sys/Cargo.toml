@@ -11,3 +11,6 @@ categories  = ["external-ffi-bindings", "multimedia", "no-std"]
 keywords    = ["audio", "music", "synthesis", "puredata", "zengarden"]
 
 [dependencies]
+
+[badges]
+travis-ci = { repository = "NeoBirth/ZenGarden.rs" }

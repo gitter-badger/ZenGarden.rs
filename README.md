@@ -32,7 +32,7 @@ GNU Lesser General Public License for more details.
 [docs-image]: https://docs.rs/zengarden/badge.svg
 [docs-link]: https://docs.rs/zengarden/
 [build-image]: https://secure.travis-ci.org/NeoBirth/ZenGarden.rs.svg?branch=master
-[build-link]: https://travis-ci.org/NeoBirth/ZenGarden
+[build-link]: https://travis-ci.org/NeoBirth/ZenGarden.rs
 [license-image]: https://img.shields.io/badge/license-LGPL%203.0-blue.svg
 [license-link]: https://github.com/NeoBirth/ZenGarden/blob/master/COPYING.LESSER
 [cc]: https://contributor-covenant.org
